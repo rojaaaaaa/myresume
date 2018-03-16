@@ -1,0 +1,21 @@
+body{
+	background-color:WHITE;
+}
+h1{
+	color:red;
+	text-align:center;
+}
+h2{
+	color:red;
+	text-align: left;
+}
+h2{
+	display:block;
+	text-align: left;
+	background-color: #ddd;
+}
+table,tr,th,td{
+	border:solid;
+	text-align: center;
+
+}

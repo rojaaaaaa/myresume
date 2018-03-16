@@ -1,0 +1,21 @@
+{
+"basics":{
+	"objective":"Roja has a ton of job experience, but she is preparing to change her career. Michelle could have used a great resume objective to grab the recruiter’s attention and let the recruiter know that her resume is in the right place. The recruiter would have known from the beginning that Roja was the right person for the job."
+},
+"education":[
+{
+	"degree":"B.tech(computer science of engineering)",
+"college":"KLMCEW",
+"data":["2015-2019","75%"]
+},
+{
+	"degree":"Intermediate",
+"college":"Narayana",
+"data":["2013-2015","75%"]
+},
+{
+	"degree":"S.S.C",
+"college":"M.V.N SCHOOL",
+"data":["2012-2013","75%"]
+}
+]
